@@ -9,6 +9,9 @@ Personal Finance Tracker is a full-stack application designed to help users trac
 - **User Authentication and Authorization:** Secure user login and registration system to protect user data.
 - **Data Security:** Utilizes MongoDB to securely store user data and financial records.
 - **Real-Time Updates:** Changes and updates to financial data are reflected in real-time for accurate tracking.
+  
+## Demo
+![App Screenshot](https://github.com/SaajanGr/Personal-Finance-Tracker/blob/main/frontend/HomeScreenshot.png)
 
 ## Installation and Usage
 
